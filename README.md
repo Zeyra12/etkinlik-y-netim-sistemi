@@ -1,0 +1,1 @@
+# etkinlik-y-netim-sistemi
