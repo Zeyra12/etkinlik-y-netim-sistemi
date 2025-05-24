@@ -1,1 +1,1 @@
-# etkinlik-y-netim-sistemi
+# etkinlik_yonetim_sistemi
